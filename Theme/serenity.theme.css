@@ -1,9 +1,9 @@
 @import url("https://raw.githack.com/codedotspectra/themes/master/neutron/importCSS/xcore.css");
 @import url('https://raw.githack.com/codedotspectra/themes/master/mini-themes/statusSquared.css');
 :root {
---bgImage: url('https://cdn.discordapp.com/attachments/544195153506861056/552083603496894464/Subtle-Gray.jpg');
+--bgImage: url('https://cdn.discordapp.com/attachments/544195153506861056/552217704199749642/a9620396df0e63802087054fbffabe931ab4de15.png');
 --HomeButtonImg: url('https://cdn.discordapp.com/attachments/544195153506861056/551915581243260933/Logo_Transparent.png');
---brightness: 0.4;
+--brightness: 0;
 --PrimaryColor01: #99AAB5;
 --PrimaryColorRGBA: rgba(153,170,181,.15);
 --PrimaryColor02: #FFFFFF;
