@@ -1,19 +1,23 @@
 @import url("https://raw.githack.com/codedotspectra/themes/master/neutron/importCSS/xcore.css");
 @import url('https://raw.githack.com/codedotspectra/themes/master/mini-themes/statusSquared.css');
+@import url('https://fonts.googleapis.com/css?family=Whitney');
+@import url("https://tropix126.github.io/BetterDiscordStuff/Reborn%20Snippets/Material%20Embeds.css");
+
 :root {
 --bgImage: url('https://cdn.discordapp.com/attachments/544195153506861056/552217704199749642/a9620396df0e63802087054fbffabe931ab4de15.png');
 --HomeButtonImg: url('https://cdn.discordapp.com/attachments/544195153506861056/551915581243260933/Logo_Transparent.png');
 --brightness: 0;
---PrimaryColor01: #99AAB5;
---PrimaryColorRGBA: rgba(153,170,181,.15);
+--customFont: 'Whitney';
+--PrimaryColor01: #7289DA;
+--PrimaryColorRGBA: rgba(114,137,218,.15);
 --PrimaryColor02: #FFFFFF;
 --links: #99AAB5;
---ChatTextColor: hsla(0, 100%, 100%, 1);
---RoleTitleColor: hsla(0, 100%, 100%, .95);
---UserPlayingTextColor: hsla(0, 100%, 100%, .6);
---ChannelsSelectedTextColor: hsla(0, 100%, 100%, .95);
---ChannelsDefaultTextColor: hsla(0, 100%, 100%, .6);
---ChannelsDarkTextColor: hsla(0, 100%, 100%, .2);
+--ChatTextColor: #ffffff;
+--RoleTitleColor: #ffffff;
+--UserPlayingTextColor: #ffffff;
+--ChannelsSelectedTextColor: #ffffff;
+--ChannelsDefaultTextColor: #99AAB5;
+--ChannelsDarkTextColor: #2C2F33;
 --NTBackgroundColor01: #3a3f4b;
 --NTBackgroundColor02: #2b3039;
 --NTBackgroundColor03: #282c34;
