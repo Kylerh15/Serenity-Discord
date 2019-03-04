@@ -1,0 +1,21 @@
+@import url("https://raw.githack.com/codedotspectra/themes/master/neutron/importCSS/xcore.css");
+@import url('https://raw.githack.com/codedotspectra/themes/master/mini-themes/statusSquared.css');
+:root {
+--bgImage: url('https://cdn.discordapp.com/attachments/544195153506861056/552083603496894464/Subtle-Gray.jpg');
+--HomeButtonImg: url('https://cdn.discordapp.com/attachments/544195153506861056/551915581243260933/Logo_Transparent.png');
+--brightness: 0.4;
+--PrimaryColor01: #99AAB5;
+--PrimaryColorRGBA: rgba(153,170,181,.15);
+--PrimaryColor02: #FFFFFF;
+--links: #99AAB5;
+--ChatTextColor: hsla(0, 100%, 100%, 1);
+--RoleTitleColor: hsla(0, 100%, 100%, .95);
+--UserPlayingTextColor: hsla(0, 100%, 100%, .6);
+--ChannelsSelectedTextColor: hsla(0, 100%, 100%, .95);
+--ChannelsDefaultTextColor: hsla(0, 100%, 100%, .6);
+--ChannelsDarkTextColor: hsla(0, 100%, 100%, .2);
+--NTBackgroundColor01: #3a3f4b;
+--NTBackgroundColor02: #2b3039;
+--NTBackgroundColor03: #282c34;
+--NTBackgroundColor04: #21252c;
+}
