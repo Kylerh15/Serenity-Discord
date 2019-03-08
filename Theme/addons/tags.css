@@ -993,7 +993,7 @@
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="116243287936860167"]::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="282138006738042880"]::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="173177738914562048"]::before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="185119357578379264"]::before,
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="139567554707324929"]::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="189174796397838337"]::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="304812483775037442"]::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="172426681800196096"]::before,
@@ -1005,7 +1005,7 @@
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="215036395507548161"]::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="296018550009626628"]::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="519790100956184586"]::before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="144550650842316800"]::before,
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="145830565663211520"]::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="252460828157018112"]::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="316563263179456513"]::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="150967530075324416"]::before,
@@ -1069,8 +1069,8 @@
   transition: filter .2s ease-in-out;
 }
 
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="185119357578379264"]::before {
-  background-image: url(https://i.imgur.com/e0dTAe6.png);
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="139567554707324929"]::before {
+  background-image: url(http://www.simpleimageresizer.com/_uploads/photos/b10dc82e/magen_david_PNG39_256x256.png);
   transform: scale(1.4);
 }
 
@@ -1130,8 +1130,8 @@
   background-image: url(https://i.imgur.com/Yp4aTR1.png);
 }
 
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="144550650842316800"]::before {
-  background-image: url(https://files.division25.xyz/CSS/FloridaMayhem.png);
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="145830565663211520"]::before {
+  background-image: url(http://www.simpleimageresizer.com/_uploads/photos/b10dc82e/144918_preview_256x256.png);
 }
 
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="252460828157018112"]::before {
@@ -1203,7 +1203,7 @@
 /* badges on hover */
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="282138006738042880"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="173177738914562048"]:hover::before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="185119357578379264"]:hover::before,
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="139567554707324929"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="189174796397838337"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="304812483775037442"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="172426681800196096"]:hover::before,
@@ -1214,7 +1214,7 @@
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="215036395507548161"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="296018550009626628"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="519790100956184586"]:hover::before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="144550650842316800"]:hover::before,
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="145830565663211520"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="252460828157018112"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="316563263179456513"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="150967530075324416"]:hover::before,
@@ -1251,9 +1251,9 @@
   color: #fff;
 }
 
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="185119357578379264"]:hover::before {
-  content: "Daddy";
-  background-image: none;
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="139567554707324929"]:hover::before {
+  content: "Developer";
+  background-image: url(https://cdn.discordapp.com/attachments/553331776798457866/553424303018737674/cache.nulled.to.gif);
   color: #fff;
 }
 
@@ -1325,11 +1325,11 @@
   color: #00ecff;
 }
 
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="144550650842316800"]:hover::before {
-  content: 'Not A Moron!';
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="145830565663211520"]:hover::before {
+  content: 'Streamer';
   background-image: url(https://files.division25.xyz/CSS/background.gif);
   background-position: bottom;
-  color: #ff0800;
+  color: #fff;
 }
 
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="252460828157018112"]:hover::before {
@@ -1397,7 +1397,7 @@
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="215036395507548161"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="296018550009626628"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="519790100956184586"]:hover::before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="144550650842316800"]:hover::before,
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="145830565663211520"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="252460828157018112"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="316563263179456513"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="150967530075324416"]:hover::before,
