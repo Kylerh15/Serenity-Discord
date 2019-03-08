@@ -1,38 +1,26 @@
 /* popin with pulse */
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="304812483775037442"]:hover:before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="172426681800196096"]:hover:before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="96563253466898432"]:hover:before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="252460828157018112"]:hover::before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="316563263179456513"]:hover::before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="150967530075324416"]:hover::before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="234148582523928576"]:hover::before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="251465413995528194"]:hover::before {
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*=""]:hover:before {
   animation: mentionpulse 1.5s infinite, popoutanim .2s;
 }
 
 
 /* popin */
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="213220786805145600"]:hover:before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="147889058670968844"]:hover::before {
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*=""]:hover:before {
   animation: popoutanim .2s;
 }
 
 /* fall and bounce */
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="282138006738042880"]:hover:before {
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="304812483775037442"]:hover:before {
   animation: fallBounce 1s;
 }
 
 /* spin in */
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="173177738914562048"]:hover:before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="130875493850284032"]:hover:before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="519790100956184586"]:hover::before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="96563253466898432"]:hover::before {
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*=""]:hover:before {
   animation: scaleSpin .4s;
 }
 
 /* fade from right */
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="244363360886325248"]:hover:before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="296018550009626628"]:hover::before {
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*=""]:hover:before {
   animation: fadeFromRight .2s;
 }
 
