@@ -1,5 +1,5 @@
 /* popin with pulse */
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*=""]:hover:before {
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="304812483775037442"]:hover:before {
   animation: mentionpulse 1.5s infinite, popoutanim .2s;
 }
 
@@ -10,7 +10,7 @@
 }
 
 /* fall and bounce */
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="304812483775037442"]:hover:before {
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*=""]:hover:before {
   animation: fallBounce 1s;
 }
 
