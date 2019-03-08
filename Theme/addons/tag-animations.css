@@ -1,16 +1,19 @@
 /* popin with pulse */
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="304812483775037442"]:hover:before {
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="304812483775037442"]:hover:before,
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="139567554707324929"]:hover:before {
   animation: mentionpulse 1.5s infinite, popoutanim .2s;
 }
 
 
 /* popin */
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*=""]:hover:before {
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="189174796397838337"]:hover:before,
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="510697205225488394"]:hover:before {
   animation: popoutanim .2s;
 }
 
 /* fall and bounce */
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*=""]:hover:before {
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="218166859013292032"]:hover:before,
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="145830565663211520"]:hover:before {
   animation: fallBounce 1s;
 }
 
