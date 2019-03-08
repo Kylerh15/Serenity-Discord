@@ -1006,10 +1006,10 @@
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="296018550009626628"]::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="519790100956184586"]::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="145830565663211520"]::before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="252460828157018112"]::before,
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="510697205225488394"]::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="316563263179456513"]::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="150967530075324416"]::before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="498444458845536257"]::before,
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="218166859013292032"]::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="234148582523928576"]::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="147889058670968844"]::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="251465413995528194"]::before,
@@ -1134,11 +1134,9 @@
   background-image: url(http://www.simpleimageresizer.com/_uploads/photos/b10dc82e/144918_preview_256x256.png);
 }
 
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="252460828157018112"]::before {
-  background-image: url(https://i.imgur.com/B9MYYAA.png);
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="510697205225488394"]::before {
+  background-image: url(http://www.simpleimageresizer.com/_uploads/photos/b10dc82e/300px-Seal_of_the_Federal_Bureau_of_Investigation.svg_256x256.png);
   transform: scale(1.4);
-  bottom: -5px;
-  right: -5px;
   filter: none;
 }
 
@@ -1156,8 +1154,8 @@
   right: -5px;
 }
 
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="498444458845536257"]::before {
-  background-image: url(https://i.imgur.com/25IctFX.png)
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="218166859013292032"]::before {
+  background-image: url(http://www.simpleimageresizer.com/_uploads/photos/b10dc82e/brand-logo-mr-clean__49949.original_category.original_256x256.png)
 }
 
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="234148582523928576"]::before {
@@ -1215,10 +1213,10 @@
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="296018550009626628"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="519790100956184586"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="145830565663211520"]:hover::before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="252460828157018112"]:hover::before,
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="510697205225488394"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="316563263179456513"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="150967530075324416"]:hover::before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="498444458845536257"]:hover::before,
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="218166859013292032"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="234148582523928576"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="147889058670968844"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="251465413995528194"]:hover::before,
@@ -1332,10 +1330,10 @@
   color: #fff;
 }
 
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="252460828157018112"]:hover::before {
-  content: 'Voyant';
-  background-image: url(https://i.imgur.com/gcgyuCa.gif);
-  color: #d8d8d8;
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="510697205225488394"]:hover::before {
+  content: 'F.B.I';
+  background-image: url(https://cdn.discordapp.com/attachments/553331776798457866/553439830986588160/fbi.gif);
+  color: #fff;
 }
 
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="316563263179456513"]:hover::before {
@@ -1351,9 +1349,9 @@
   text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="498444458845536257"]:hover::before {
-  content: "Loves Nayu";
-  background-image: url(https://i.imgur.com/Ev7NpBI.gif);
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="218166859013292032"]:hover::before {
+  content: "Mr. Clean";
+  background-image: url(https://cdn.discordapp.com/attachments/553331776798457866/553441374041669681/clean.gif);
   color: black;
   text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
@@ -1398,10 +1396,10 @@
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="296018550009626628"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="519790100956184586"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="145830565663211520"]:hover::before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="252460828157018112"]:hover::before,
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="510697205225488394"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="316563263179456513"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="150967530075324416"]:hover::before,
-.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="498444458845536257"]:hover::before,
+.large-3ChYtB:not(.wrapper-2F3Zv8)[style*="218166859013292032"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="234148582523928576"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="147889058670968844"]:hover::before,
 .large-3ChYtB:not(.wrapper-2F3Zv8)[style*="251465413995528194"]:hover::before,
