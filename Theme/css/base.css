@@ -4320,4 +4320,8 @@ img[src*="/assets/9e8f566e6d49e8f4bba138e1d6a50578.svg"] {
     opacity:.6;
 }
 
+.buttons-205you [tabindex="2"] {
+    display: none;
+}
+
 /*Made with ♥ by Kylerh15 and the Serenity Community.*/
